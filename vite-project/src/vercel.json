@@ -1,0 +1,24 @@
+{
+    "redirects":[
+        {
+			"source": "/",
+			"destination": "/index.html"
+		},
+		{
+			"source": "/patients",
+			"destination": "/patients/index.html"
+		},
+		{
+			"source": "/patients/:patientId",
+			"destination": "/patients/:patientId/index.html"
+		},
+		{
+			"source": "/wards",
+			"destination": "/wards/index.html"
+		},
+		{
+			"source": "/wards/:wardId",
+			"destination": "/wards/:wardId/index.html"
+		}
+    ]
+}

@@ -8,7 +8,10 @@ const Root = () => {
 		<div>
 			<header>
 				<h3>
-					Source Code: <a href="">Github</a>
+					Source Code:{" "}
+					<a href="https://github.com/aasimd/Hospital-Ease" target="_blank">
+						Github
+					</a>
 				</h3>
 				<nav>
 					<NavBar />
