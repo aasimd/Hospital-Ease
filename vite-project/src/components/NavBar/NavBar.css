@@ -1,0 +1,18 @@
+/** @format */
+.nav-bar {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.nav-bar ul {
+	padding: 10px;
+	list-style: none;
+	display: flex;
+}
+.nav-bar ul li {
+	padding: 5px 5px 0 5px;
+}
+
+.nav-bar h2 {
+	cursor: pointer;
+}

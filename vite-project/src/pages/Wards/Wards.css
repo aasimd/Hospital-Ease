@@ -1,0 +1,11 @@
+/** @format */
+
+.wards-page ol {
+	text-align: left;
+}
+
+.flex-display-list-form {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
